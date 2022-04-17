@@ -12,6 +12,7 @@ public class Asciivalue {
 		int n=sc.next().charAt(0);
 		System.out.println("The Ascii value of character is "+n);
 		sc.close();
+		System.out.println();
 		
 	}
 
